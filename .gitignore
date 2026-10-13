@@ -1,0 +1,22 @@
+# build output
+target/
+out/
+*.class
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# personal data (never commit your money data)
+spendwise_data.csv
+premium_expenses.csv
+data/
+*.ics
